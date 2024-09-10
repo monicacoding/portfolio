@@ -1,7 +1,7 @@
 :root {
-    --color-accent: #5eead4;
+    --color-accent: #8075ff;
     --color-highlight: #e2e8f0;
-    --background-acent: #13303c;
+    --background-acent: #261f60;
 }
 
 html {
@@ -41,7 +41,7 @@ h4::selection,
 h5::selection,
 h6::selection {
     background-color: var(--color-accent);
-    color: #0F182A;
+    color: #17153B;
 }
 
 .underlay {
@@ -74,16 +74,20 @@ header h1 {
 }
 
 #name {
-    transition-duration: 200ms;
-    background-image: url(/public/name-background.jpg);
-    background-position: left;
-    background-attachment: fixed;
+    background: linear-gradient(135deg, #8277FF 0%, #D4C3F1 25%, #B6EADB 50%, #D4C3F1 75%, #8277FF 100%);
+    background-size: 400%;
+    animation: animate 10s linear infinite;
+    
+    -webkit-background-clip: text;
     background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent; /* Fallback for non-webkit browsers */
 }
 
-#name:hover {
-    transition-duration: 200ms;
-    color: rgba(245, 245, 245, 0.415);
+@keyframes animate {
+    100% {
+        background-position: 400%;
+    }
 }
 
 header h4 {
@@ -92,10 +96,6 @@ header h4 {
 
 header p {
     font-size: 0.9rem;
-}
-
-nav {
-    display: none;
 }
 
 nav a {
@@ -247,7 +247,7 @@ section h2 {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
-    color: var(--color-accent);
+    color: var(--color-highlight);
     padding-top: 0.2rem;
 }
 
@@ -341,7 +341,7 @@ footer p {
 
 .scroll-to-top {
     text-decoration: none;
-    color: var(--color-accent);
+    color: var(--color-highlight);
     background: var(--background-acent);
     padding: 0 0.75rem;
     aspect-ratio: 1 / 1;
