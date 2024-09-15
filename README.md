@@ -22,10 +22,9 @@ Fresh to the coding world since 2024, I have a passion for turning complex ideas
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&letterSpacing=0.2rem&duration=1000&pause=5000&color=8075FF&vCenter=true&repeat=false&width=435&lines=Blog+Posts" alt="Typing SVG" /></a><br/>
 
-- [The Future of Software Development: Embracing AI's Role]()
-- [Review of Cursor AI IDE: A New Frontier in Code Development]()
-- [The Top Three Qualities to Become a Successful Web Developer]()
-- [The Top 5 Programming Languages to Learn in 2024]()
+- [The Future of Software Development: Embracing AI's Role](https://monicacoding.medium.com/the-future-of-software-development-embracing-ais-role-58971da6847c)
+- [Cursor AI: A New Frontier in Code Development](https://monicacoding.medium.com/cursor-ai-a-new-frontier-in-code-development-2a6dd39138f8)
+- [The Top 5 Programming Languages to Learn in 2024](https://monicacoding.medium.com/the-top-5-programming-languages-to-learn-in-2024-dcfe95c3ecf5)
 <br/>
 
 ---
