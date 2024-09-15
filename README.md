@@ -9,7 +9,7 @@ Fresh to the coding world since 2024, I have a passion for turning complex ideas
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&letterSpacing=0.2rem&duration=1000&pause=5000&color=8075FF&vCenter=true&repeat=false&width=435&lines=Git+In+Touch" alt="Typing SVG" /></a> <br/>
 <img align="center" alt="Codepen" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg"/></i> Creating and meddling with ideas in [Codepen](https://codepen.io/monicacoding). <br/>
 <img align="center" alt="Codepen" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"/></i> Sharing thoughts and insights on [Medium](https://medium.com/@monicacoding). <br/>
-<img align="center" alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"/></i> Always reachable via [LinkedIn](https://www.linkedin.com/in/monicafariacaires/) or monicafariacaires@gmail.com. <br/>
+<img align="center" alt="LinkedIn" width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"/></i> Always reachable via [LinkedIn](https://www.linkedin.com/in/monicafariacaires/) or hello@monicacoding.dev. <br/>
 <br/>
 
 ---
